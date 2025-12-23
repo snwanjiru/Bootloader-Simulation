@@ -4,12 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 [![Platform: Cross-Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20WSL-blue)]()
 
-A professional-grade bootloader simulator demonstrating safe firmware update procedures with memory protection, application validation, and multi-protocol support.
+A bootloader simulator demonstrating safe firmware update procedures with memory protection, application validation, and multi-protocol support.
 
 ## 📹 Demo Video
 [![Watch the Demo](https://img.shields.io/badge/WATCH_DEMO-YouTube-red)](your-youtube-link-here)
 
-## ✨ Features
+## Features
 | Feature | Description | Real-World Application |
 |---------|-------------|------------------------|
 | **Memory Protection** | Hardware-enforced write protection for bootloader regions | Prevents bricking during failed updates |
@@ -18,7 +18,7 @@ A professional-grade bootloader simulator demonstrating safe firmware update pro
 | **Timeout Mechanism** | Auto-jump to valid applications | Improved user experience & power efficiency |
 | **Virtual Flash** | Complete flash memory emulation | Test without physical hardware |
 
-## 🛠️ Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
