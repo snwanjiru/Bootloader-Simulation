@@ -1,0 +1,11 @@
+# Compiled binary
+bootloader_sim
+
+# Object files
+*.o
+
+# Build directory
+build/
+
+# Editor files
+.vscode/
